@@ -34,4 +34,4 @@ Para realização desse projeto criamos um cronograma de projetos, com as etapas
 
 
 
-![create_table](C:\Users\User\Documents\PROGRAMAÇÃO\Github_projetos\DIO_Projeto_BANCO_DADOS\SQL_Fundamentos_ecomerce_BD_Queries\img\create_table.png)
+![create_table](img/create_table.png)
