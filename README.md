@@ -20,10 +20,13 @@ Para a Loja Virtual de vestuário feminino, **BellaBoutique**, foram feitas a pe
 
 Diretório **docs:**
 Toda a documentação do projeto.
+
 Diretório **Jupyter**: 
 Notebook com scripts de criação dos DF a serem inseridos no Banco de dados.
+
 Diretório **pandas:**
 Contem os DF prontos para inserir no DB.
+
 **Ferramentas:**
 
 [Miro_app](https://miro.com/app/dashboard/): Para Use case
